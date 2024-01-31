@@ -3,14 +3,10 @@ import java.util.Arrays;
 public class Check_if_Numbers_Are_Ascending_in_a_Sentence {
     public static void main(String[] args) {
         boolean input = areNumbersAscending("1 box has 3 blue 4 red 6 green and 12 yellow marbles");
-        // for (int num : input) {
-        //     if (num != 0) { // Skip printing zeros
-        //         System.out.println(num);
-        //     }
-        // }
         System.out.println(input);
         
     }
+    Check_if_All_A's_Appears_Before_All_B's
 
     static boolean areNumbersAscending(String s) {
         char[] ch = s.toCharArray();
