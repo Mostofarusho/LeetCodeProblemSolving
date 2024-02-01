@@ -1,6 +1,6 @@
 public class String_Practice {
     public static void main(String[] args) {
-        String length
+        // String length
 //			String data="Mostofa";
 //			data=data.concat("\0");
 //			char arr[]=data.toCharArray();
