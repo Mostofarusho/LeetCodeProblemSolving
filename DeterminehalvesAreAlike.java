@@ -5,7 +5,7 @@ public class DeterminehalvesAreAlike {
         boolean input=halvesAreAlike(s);
         System.out.println(input);
     }
-    // String actualWord = word.substring(0, word.length() - 1);
+   
     static boolean halvesAreAlike(String s) {
         s=s.toLowerCase();
         char ch[]=s.toCharArray();
