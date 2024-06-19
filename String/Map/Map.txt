@@ -1,0 +1,17 @@
+Map
+Defination: Map is a data structure which holds the data as a <Key,Value> pair
+Properties: Keys are unique ,Values need not be unique
+
+Different Types Of Maps
+1.HashMap
+Map<Character,Integer> map=new HashMap<>();
+The input Character sequence and output Character sequence is not same.The order of input and output Character is not the same.
+*HashMap stores the data in Random order(based on a hash function)
+2.LinkedHashMap
+Map<Character,Integer> map=new LinkedHashMap<>();
+The input Character sequence and output Character sequence is same.The order of input and output Character is the same.
+*LinkedHashMap stores the data in same sequence as the input
+3.TreeHashMap
+Map<Character,Integer> map=new TreeMap<>();
+The input Character sequence and output Character sequence is not same or same but in sorted order.The order of input and output Character is not the same or same but in sorted order.
+*TreeMap stores the data in ascending order.
