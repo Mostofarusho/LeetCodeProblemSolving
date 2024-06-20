@@ -29,17 +29,6 @@ public class Find_Disappeared_Numbers {
                 missingNumber.add(j + 1);
             }
         }
-
-			
-				
-		
-//		if(found==true) {
-//			return missingNumber;
-//		}
-//		else {
-//			missingNumber.add(myarray.length);
-//			return missingNumber;
-//		}
 		return missingNumber;
 			 
 	}
