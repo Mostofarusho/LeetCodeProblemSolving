@@ -1,0 +1,42 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "BasicStringManipulationOne",
+            "request": "launch",
+            "mainClass": "BasicStringManipulationOne",
+            "projectName": "LeetCodeProblemSolving_ac226cc"
+        },
+        {
+            "type": "java",
+            "name": "InputArray",
+            "request": "launch",
+            "mainClass": "InputArray",
+            "projectName": "LeetCodeProblemSolving_ac226cc"
+        },
+        {
+            "type": "java",
+            "name": "ReverseAString",
+            "request": "launch",
+            "mainClass": "ReverseAString",
+            "projectName": "LeetCodeProblemSolving_ac226cc"
+        },
+        {
+            "type": "java",
+            "name": "StringSolutions",
+            "request": "launch",
+            "mainClass": "StringSolutions",
+            "projectName": "LeetCodeProblemSolving_ac226cc"
+        }
+    ]
+}
