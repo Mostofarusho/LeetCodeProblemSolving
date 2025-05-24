@@ -1,6 +1,7 @@
 public class PalindromeOfAString {
     public static void main(String[] args) {
-        String myString="RADAR";
+        String givenString="Palindrome checker is running";
+        String myString=givenString.replaceAll("\\s", "").toUpperCase();
         boolean ans=checkPalindrome(myString);
         // System.out.println(ans);
         if(ans){
