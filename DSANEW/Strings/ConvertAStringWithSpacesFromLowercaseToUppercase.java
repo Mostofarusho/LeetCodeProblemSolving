@@ -1,6 +1,6 @@
 public class ConvertAStringWithSpacesFromLowercaseToUppercase {
     public static void main(String[] args) {
-        String myString="rusho how are you";
+        String myString="count vowel consonents and symbols";
         char[] ch=myString.toCharArray();
         int size=ch.length;
         int i=0;
