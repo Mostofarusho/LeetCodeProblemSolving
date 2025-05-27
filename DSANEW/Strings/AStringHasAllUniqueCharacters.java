@@ -28,5 +28,5 @@ public class AStringHasAllUniqueCharacters {
             
         }
         System.out.println("Does contain All Unique Characters ");
-    }
+    } 
 }
