@@ -5,3 +5,4 @@ public class RemoveAllWhiteSpacesFromAString {
         System.out.println(newString);
     }
 }
+ 
