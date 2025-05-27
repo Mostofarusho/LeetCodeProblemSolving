@@ -4,7 +4,7 @@ import java.util.Map;
 
 public class AStringWithAllNonRepeatedCharacters {
    public static void main(String[] args) {
-     String myString="SPIDER_WEBS_OF_LIES";
+    String myString="SPIDER_WEBS_OF_LIES";
     char[] ch=myString.toCharArray();
     int size=ch.length;
     int i=0;
